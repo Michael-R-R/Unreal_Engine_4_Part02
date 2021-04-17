@@ -11,7 +11,7 @@ lOCK AND LOAD:
 
 
 METAHUMAN:
-“I know I am an android, but I feel so ... happy.” ― Tim Lebbon, Alien: Invasion
+“You cannot be human without the ability to make symbols and recognize what they mean. A red stop sign is a symbol that tells cars to halt at an intersection. Red has zero connection to stop until human beings assign it that meaning.” ― Deepak Chopra, Metahuman: Unleashing Your Infinite Potential
   - Converted from first person to third person to test the power of MetaHuman tool
   - Implemented a small set of animations meant for prototyping
   - Things to try next: 
