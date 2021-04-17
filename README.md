@@ -10,5 +10,6 @@ lOCK AND LOAD:
 ![AmmoTypes](https://user-images.githubusercontent.com/54217603/115119252-6df9a780-9f75-11eb-8465-bec5af74688d.gif)
 
 
+“I know I am an android, but I feel so ... happy.” ― Tim Lebbon, Alien: Invasion
 
 ![ThirdPerson](https://user-images.githubusercontent.com/54217603/115128335-20982d00-9fab-11eb-847c-567a2e5f3296.gif)
