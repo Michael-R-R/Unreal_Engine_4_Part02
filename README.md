@@ -10,6 +10,11 @@ lOCK AND LOAD:
 ![AmmoTypes](https://user-images.githubusercontent.com/54217603/115119252-6df9a780-9f75-11eb-8465-bec5af74688d.gif)
 
 
+METAHUMAN:
 “I know I am an android, but I feel so ... happy.” ― Tim Lebbon, Alien: Invasion
+  - Converted from first person to third person to test the power of MetaHuman tool
+  - Implemented a small set of animations meant for prototyping
+  - Things to try next: 
+    - Make simple edits or full animations using UE4's control rig with a MetaHuman skeleton
 
 ![ThirdPerson](https://user-images.githubusercontent.com/54217603/115128335-20982d00-9fab-11eb-847c-567a2e5f3296.gif)
