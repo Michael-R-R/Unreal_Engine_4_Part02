@@ -18,3 +18,9 @@ METAHUMAN:
     - Make simple edits or full animations using UE4's control rig with a MetaHuman skeleton
 
 ![ThirdPerson](https://user-images.githubusercontent.com/54217603/115128335-20982d00-9fab-11eb-847c-567a2e5f3296.gif)
+
+
+METAHUMAN + ADVANCE LOCOMOTION SYSTEM:
+  - Combined the Metahuman with the ALS to develop a high quality character
+  - Added in my anti-gravity ammo and damage ammo to show case the character
+  - No .gif because the show case file is too big, instead find it on imugur: https://imgur.com/a/P2IVjTp
