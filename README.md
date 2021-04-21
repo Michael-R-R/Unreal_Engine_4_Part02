@@ -24,3 +24,10 @@ METAHUMAN + ADVANCE LOCOMOTION SYSTEM:
   - Combined the Metahuman with the ALS to develop a high quality character
   - Added in my anti-gravity ammo and damage ammo to show case the character
   - No .gif because the show case file is too big, instead find it on imugur: https://imgur.com/a/P2IVjTp
+
+GIVING LIFE TO THE LAND:
+  - Learned about techniques and tools in order to generate foilage and assets throughout the world
+  - Learned techniques in order to blend terrain textures better and generate terrain textures based off of parameters.
+
+![LandscapeBuilding](https://user-images.githubusercontent.com/54217603/115634446-a7187b80-a2d7-11eb-8516-f69c4e78ad68.png)
+
