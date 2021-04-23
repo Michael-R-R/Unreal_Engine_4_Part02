@@ -32,4 +32,11 @@ GIVING LIFE TO THE LAND:
 ![LandscapeBuilding](https://user-images.githubusercontent.com/54217603/115634446-a7187b80-a2d7-11eb-8516-f69c4e78ad68.png)
 ![DepthofFieldLandscape](https://user-images.githubusercontent.com/54217603/115898407-85c8a400-a42b-11eb-97f6-78ce9106689c.png)
 
+NEVER VENTURE ALONE:
+  - Begin working on a early prototype of a following companion
+  - I plan to implement different set of utilities that the companion will be able to do
+
+![Companion](https://user-images.githubusercontent.com/54217603/115898577-b577ac00-a42b-11eb-8fcb-2fcb94abb929.gif)
+
+
 
