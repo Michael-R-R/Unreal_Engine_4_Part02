@@ -30,4 +30,6 @@ GIVING LIFE TO THE LAND:
   - Learned techniques in order to blend terrain textures better and generate terrain textures based off of parameters.
 
 ![LandscapeBuilding](https://user-images.githubusercontent.com/54217603/115634446-a7187b80-a2d7-11eb-8516-f69c4e78ad68.png)
+![DepthofFieldLandscape](https://user-images.githubusercontent.com/54217603/115898407-85c8a400-a42b-11eb-97f6-78ce9106689c.png)
+
 
